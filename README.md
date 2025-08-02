@@ -1,3 +1,5 @@
-<h1> Sistema de Registro</h1>
+<h1> Registration System</h1>
 
-- Estado de proyecto: En construcción.
+<p align="left">
+<img src="https://img.shields.io/badge/STATUS-UNDER%20CONSTRUCTION-purple">
+</p>
